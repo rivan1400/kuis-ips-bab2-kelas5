@@ -4,7 +4,7 @@ export const quizzes = {
     "subtitle": "Latihan Penilaian Sumatif Akhir Semester • Kelas V",
     "questions": [
       {
-        "q": "Secara geografis, wilayah Indonesia terletak di antara dua benua, yaitu …",
+        "q": "Jika dilihat dari letak geografisnya, Indonesia berada di antara dua benua, yaitu …",
         "a": [
           "Asia dan Australia",
           "Asia dan Afrika",
@@ -14,7 +14,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Sebagian besar wilayah Indonesia terdiri dari perairan/lautan. Hal ini menyebabkan Indonesia disebut negara …",
+        "q": "Lautan lebih luas daripada daratan di wilayah Indonesia. Karena keadaan tersebut, Indonesia dikenal sebagai negara …",
         "a": [
           "agraris",
           "maritim",
@@ -24,7 +24,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Indonesia memiliki dua musim, yaitu musim kemarau dan hujan. Indonesia beriklim …",
+        "q": "Di Indonesia terdapat musim hujan dan musim kemarau. Kedua musim ini menjadi ciri negara beriklim …",
         "a": [
           "tropis",
           "subtropis",
@@ -34,7 +34,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Wilayah daratan Indonesia yang subur dan dialiri banyak sungai mendukung kegiatan …",
+        "q": "Tanah yang subur serta sungai yang mengalir di berbagai wilayah Indonesia sangat mendukung kegiatan …",
         "a": [
           "pelayaran",
           "perikanan laut",
@@ -44,7 +44,7 @@ export const quizzes = {
         "correct": 2
       },
       {
-        "q": "Sebagian besar penduduk bekerja di sektor pertanian, karena Indonesia disebut negara …",
+        "q": "Karena banyak penduduknya bekerja sebagai petani, Indonesia juga dikenal sebagai negara …",
         "a": [
           "agraris",
           "maritim",
@@ -54,7 +54,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Posisi Indonesia menghubungkan Samudra Pasifik dan Samudra Hindia. Dampak positif di bidang ekonomi adalah …",
+        "q": "Letak Indonesia berada pada jalur yang menghubungkan Samudra Pasifik dengan Samudra Hindia. Keuntungan ekonomi dari posisi ini adalah …",
         "a": [
           "masuknya budaya luar",
           "meningkatnya perdagangan dan kerja sama ekonomi antarnegara",
@@ -64,7 +64,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Petani sawah, pekerja perkebunan, dan pemetik teh merupakan contoh mata pencaharian di daerah …",
+        "q": "Orang yang bekerja mengurus sawah, perkebunan, dan memetik teh biasanya tinggal di wilayah …",
         "a": [
           "perkotaan",
           "pesisir pantai",
@@ -74,7 +74,7 @@ export const quizzes = {
         "correct": 2
       },
       {
-        "q": "Pengaruh globalisasi dan perdagangan dunia terhadap cara hidup masyarakat dapat berupa …",
+        "q": "Masuknya pengaruh globalisasi dan perdagangan dunia dapat membawa perubahan dalam kehidupan masyarakat, misalnya …",
         "a": [
           "makanan tradisional semakin diminati saja",
           "terjadinya akulturasi dan percampuran budaya",
@@ -84,7 +84,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Salah satu dampak negatif letak Indonesia yang strategis dalam jalur perdagangan dunia adalah …",
+        "q": "Selain membawa keuntungan, posisi Indonesia yang strategis pada jalur perdagangan dunia juga dapat menimbulkan dampak buruk, yaitu …",
         "a": [
           "Indonesia semakin dikenal",
           "masuknya barang impor ilegal",
@@ -94,7 +94,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Tanaman yang cocok ditanam di daerah dataran tinggi adalah …",
+        "q": "Jika ingin bercocok tanam di daerah dataran tinggi, jenis tanaman yang paling sesuai adalah …",
         "a": [
           "padi dan kelapa",
           "teh dan sayuran",
@@ -104,7 +104,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Kegiatan utama manusia untuk memenuhi kebutuhan hidup sehari-hari disebut …",
+        "q": "Berbagai usaha yang dilakukan manusia untuk memenuhi kebutuhan hidupnya setiap hari disebut …",
         "a": [
           "distribusi",
           "konsumsi",
@@ -114,7 +114,7 @@ export const quizzes = {
         "correct": 2
       },
       {
-        "q": "Penebangan liar membuat pabrik kayu kekurangan bahan baku dan kerusakan terumbu karang membuat nelayan tak bisa melaut. Dampak utamanya adalah …",
+        "q": "Penebangan liar menyebabkan pabrik kayu kekurangan bahan. Sementara itu, terumbu karang yang rusak membuat nelayan kesulitan melaut. Akibat kedua masalah tersebut bagi kegiatan ekonomi adalah …",
         "a": [
           "ekspor meningkat",
           "proses produksi barang dan jasa terganggu",
@@ -124,7 +124,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Sisa atau residu dari kegiatan konsumsi disebut …",
+        "q": "Setelah barang digunakan untuk memenuhi kebutuhan, biasanya ada sisa yang disebut …",
         "a": [
           "bahan baku",
           "sampah hasil konsumsi",
@@ -134,7 +134,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Tanah subur dan tambang bijih timah merupakan faktor kegiatan ekonomi berupa …",
+        "q": "Kesuburan tanah dan adanya tambang bijih timah merupakan contoh faktor ekonomi yang berasal dari …",
         "a": [
           "sumber daya manusia",
           "sumber daya alam",
@@ -144,7 +144,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Pengrajin mengolah kayu menjadi meja dan kursi. Kegiatan tersebut termasuk …",
+        "q": "Seorang pengrajin mengubah kayu menjadi meja dan kursi yang siap digunakan. Ia sedang melakukan kegiatan …",
         "a": [
           "produksi",
           "distribusi",
@@ -154,7 +154,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Dokter memeriksa pasien dan guru mengajar di kelas termasuk kegiatan …",
+        "q": "Saat dokter memberikan pemeriksaan kepada pasien dan guru mengajar murid, keduanya sedang melakukan …",
         "a": [
           "produksi jasa",
           "distribusi langsung",
@@ -164,7 +164,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Nelayan tidak dapat menghasilkan ikan karena laut tercemar. Masalah ekonomi tersebut adalah …",
+        "q": "Laut yang tercemar membuat nelayan tidak bisa memperoleh ikan untuk dijual. Keadaan ini merupakan masalah …",
         "a": [
           "tidak bisa memproduksi akibat sumber daya alam rusak",
           "hambatan distribusi karena jembatan rusak",
@@ -174,7 +174,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Mesin otomatis berteknologi tinggi di pabrik berdampak langsung …",
+        "q": "Sebuah pabrik mulai memakai mesin otomatis dengan teknologi modern. Penggunaan mesin tersebut secara langsung dapat …",
         "a": [
           "menurunkan kualitas produk",
           "mempercepat produksi dan meningkatkan efisiensi",
@@ -184,7 +184,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Pelabuhan, listrik stabil, dan jalan tol mendukung kelancaran kegiatan …",
+        "q": "Adanya pelabuhan yang baik, pasokan listrik yang stabil, dan jalan tol akan membantu kelancaran …",
         "a": [
           "produksi dan distribusi",
           "konsumsi dan pembuangan sampah",
@@ -194,7 +194,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Pendidikan dan keterampilan penduduk yang rendah menunjukkan pentingnya faktor …",
+        "q": "Sebuah daerah memiliki kekayaan alam, tetapi penduduknya kurang terdidik dan belum memiliki keterampilan yang cukup. Hal ini menunjukkan pentingnya …",
         "a": [
           "sumber daya alam",
           "sumber daya manusia",
@@ -204,7 +204,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Sampah rumah tangga yang tidak dikelola dapat berdampak buruk pada …",
+        "q": "Jika sampah dari rumah tangga dibiarkan menumpuk dan tidak diolah dengan benar, hal itu dapat membahayakan …",
         "a": [
           "pasokan bahan baku tekstil",
           "kesehatan masyarakat dan kelestarian sumber daya alam",
@@ -214,7 +214,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Daerah pegunungan sejuk cocok untuk teh dan sayuran. Faktor dominan adalah …",
+        "q": "Udara sejuk di daerah pegunungan membuat teh dan sayuran cocok dibudidayakan. Faktor yang paling memengaruhi kegiatan ekonomi tersebut adalah …",
         "a": [
           "sumber daya manusia",
           "sumber daya alam",
@@ -224,7 +224,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Internet cepat untuk membantu UMKM memasarkan produk merupakan pengembangan …",
+        "q": "Pemerintah menyediakan jaringan internet cepat agar pelaku UMKM dapat menjual produknya secara daring. Upaya ini mengembangkan faktor …",
         "a": [
           "sumber daya alam tambang",
           "teknologi dan sarana komunikasi",
@@ -234,7 +234,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Kebakaran hutan merusak pasokan rotan (1), jalan rusak menghambat pengiriman (2), sampah plastik (3), mesin kuno boros energi (4). Pasangan kerusakan SDA dan hambatan distribusi adalah …",
+        "q": "Perhatikan empat masalah berikut: (1) kebakaran hutan mengurangi persediaan rotan, (2) jalan rusak menghambat pengiriman barang, (3) sampah plastik menyumbat saluran air, dan (4) mesin pabrik lama boros energi. Nomor yang menunjukkan kerusakan sumber daya alam dan hambatan distribusi adalah …",
         "a": [
           "1 dan 2",
           "1 dan 3",
@@ -250,7 +250,7 @@ export const quizzes = {
     "subtitle": "Latihan Penilaian Sumatif Harian • Kelas V",
     "questions": [
       {
-        "q": "Kegiatan utama manusia untuk memenuhi kebutuhan hidup sehari-hari disebut …",
+        "q": "Berbagai usaha yang dilakukan manusia untuk memenuhi kebutuhan hidupnya setiap hari disebut …",
         "a": [
           "distribusi",
           "konsumsi",
@@ -260,7 +260,7 @@ export const quizzes = {
         "correct": 2
       },
       {
-        "q": "Penebangan liar membuat pabrik kayu kekurangan bahan baku dan kerusakan terumbu karang membuat nelayan tak bisa melaut. Dampak utamanya adalah …",
+        "q": "Penebangan liar menyebabkan pabrik kayu kekurangan bahan. Sementara itu, terumbu karang yang rusak membuat nelayan kesulitan melaut. Akibat kedua masalah tersebut bagi kegiatan ekonomi adalah …",
         "a": [
           "ekspor meningkat",
           "proses produksi barang dan jasa terganggu",
@@ -270,7 +270,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Sisa atau residu dari kegiatan konsumsi disebut …",
+        "q": "Setelah barang digunakan untuk memenuhi kebutuhan, biasanya ada sisa yang disebut …",
         "a": [
           "bahan baku",
           "sampah hasil konsumsi",
@@ -280,7 +280,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Tanah subur dan tambang bijih timah merupakan faktor kegiatan ekonomi berupa …",
+        "q": "Kesuburan tanah dan adanya tambang bijih timah merupakan contoh faktor ekonomi yang berasal dari …",
         "a": [
           "sumber daya manusia",
           "sumber daya alam",
@@ -290,7 +290,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Pengrajin mengolah kayu menjadi meja dan kursi. Kegiatan tersebut termasuk …",
+        "q": "Seorang pengrajin mengubah kayu menjadi meja dan kursi yang siap digunakan. Ia sedang melakukan kegiatan …",
         "a": [
           "produksi",
           "distribusi",
@@ -300,7 +300,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Jika pendapatan terbatas, urutan prioritas kebutuhan yang tepat adalah …",
+        "q": "Ketika uang yang dimiliki terbatas, bagaimana sebaiknya seseorang menyusun urutan pemenuhan kebutuhannya? …",
         "a": [
           "tersier, sekunder, primer",
           "primer, sekunder sesuai kemampuan, lalu tersier",
@@ -310,7 +310,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Nelayan tidak dapat menghasilkan ikan karena laut tercemar. Masalah ekonomi tersebut adalah …",
+        "q": "Laut yang tercemar membuat nelayan tidak bisa memperoleh ikan untuk dijual. Keadaan ini merupakan masalah …",
         "a": [
           "tidak bisa memproduksi akibat sumber daya alam rusak",
           "hambatan distribusi karena jembatan rusak",
@@ -320,7 +320,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Mesin otomatis berteknologi tinggi di pabrik berdampak langsung …",
+        "q": "Sebuah pabrik mulai memakai mesin otomatis dengan teknologi modern. Penggunaan mesin tersebut secara langsung dapat …",
         "a": [
           "menurunkan kualitas produk",
           "mempercepat produksi dan meningkatkan efisiensi",
@@ -330,7 +330,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Pelabuhan, listrik stabil, dan jalan tol mendukung kelancaran kegiatan …",
+        "q": "Adanya pelabuhan yang baik, pasokan listrik yang stabil, dan jalan tol akan membantu kelancaran …",
         "a": [
           "produksi dan distribusi",
           "konsumsi dan pembuangan sampah",
@@ -340,7 +340,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Pendidikan dan keterampilan penduduk yang rendah menunjukkan pentingnya faktor …",
+        "q": "Sebuah daerah memiliki kekayaan alam, tetapi penduduknya kurang terdidik dan belum memiliki keterampilan yang cukup. Hal ini menunjukkan pentingnya …",
         "a": [
           "sumber daya alam",
           "sumber daya manusia",
@@ -350,7 +350,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Sampah rumah tangga yang tidak dikelola dapat berdampak buruk pada …",
+        "q": "Jika sampah dari rumah tangga dibiarkan menumpuk dan tidak diolah dengan benar, hal itu dapat membahayakan …",
         "a": [
           "pasokan bahan baku tekstil",
           "kesehatan masyarakat dan kelestarian sumber daya alam",
@@ -360,7 +360,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Daerah pegunungan sejuk cocok untuk teh dan sayuran. Faktor dominan adalah …",
+        "q": "Udara sejuk di daerah pegunungan membuat teh dan sayuran cocok dibudidayakan. Faktor yang paling memengaruhi kegiatan ekonomi tersebut adalah …",
         "a": [
           "sumber daya manusia",
           "sumber daya alam",
@@ -370,7 +370,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Internet cepat untuk membantu UMKM memasarkan produk merupakan pengembangan …",
+        "q": "Pemerintah menyediakan jaringan internet cepat agar pelaku UMKM dapat menjual produknya secara daring. Upaya ini mengembangkan faktor …",
         "a": [
           "sumber daya alam tambang",
           "teknologi dan sarana komunikasi",
@@ -380,7 +380,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Kebakaran hutan merusak pasokan rotan (1), jalan rusak menghambat pengiriman (2), sampah plastik (3), mesin kuno boros energi (4). Pasangan kerusakan SDA dan hambatan distribusi adalah …",
+        "q": "Perhatikan empat masalah berikut: (1) kebakaran hutan mengurangi persediaan rotan, (2) jalan rusak menghambat pengiriman barang, (3) sampah plastik menyumbat saluran air, dan (4) mesin pabrik lama boros energi. Nomor yang menunjukkan kerusakan sumber daya alam dan hambatan distribusi adalah …",
         "a": [
           "1 dan 2",
           "1 dan 3",
@@ -390,7 +390,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Kegiatan menyalurkan barang dan jasa dari produsen kepada konsumen disebut …",
+        "q": "Proses mengirimkan atau menyalurkan barang dan jasa dari pembuatnya hingga diterima pembeli disebut …",
         "a": [
           "produksi",
           "distribusi",
@@ -400,7 +400,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Kebutuhan sekunder adalah kebutuhan yang …",
+        "q": "Pernyataan yang tepat untuk menjelaskan kebutuhan sekunder adalah kebutuhan yang …",
         "a": [
           "wajib ada agar manusia tetap hidup",
           "membantu kenyamanan setelah kebutuhan pokok terpenuhi",
@@ -410,7 +410,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Membeli mobil sport edisi terbatas padahal sudah punya kendaraan operasional termasuk kebutuhan …",
+        "q": "Seseorang sudah memiliki kendaraan untuk keperluan sehari-hari, tetapi kemudian membeli mobil sport edisi terbatas. Pembelian tersebut termasuk kebutuhan …",
         "a": [
           "primer",
           "sekunder",
@@ -420,7 +420,7 @@ export const quizzes = {
         "correct": 2
       },
       {
-        "q": "Salah satu peran utama produsen adalah …",
+        "q": "Dalam kegiatan ekonomi, salah satu tugas penting seorang produsen yaitu …",
         "a": [
           "menghabiskan nilai guna barang",
           "menyediakan barang dan jasa serta membuka lapangan kerja",
@@ -430,7 +430,7 @@ export const quizzes = {
         "correct": 1
       },
       {
-        "q": "Pabrik roti membuat roti, minimarket menjualnya, lalu warga membeli. Urutan pelaku ekonomi adalah …",
+        "q": "Sebuah pabrik menghasilkan roti. Roti itu kemudian dijual oleh minimarket dan dibeli oleh warga. Urutan pelaku ekonomi dalam cerita tersebut adalah …",
         "a": [
           "produsen – distributor – konsumen",
           "konsumen – produsen – distributor",
@@ -440,7 +440,7 @@ export const quizzes = {
         "correct": 0
       },
       {
-        "q": "Pihak yang membeli dan memakai barang atau jasa untuk memenuhi kebutuhan disebut …",
+        "q": "Orang atau kelompok yang membeli sekaligus menggunakan barang maupun jasa untuk memenuhi kebutuhannya disebut …",
         "a": [
           "produsen",
           "distributor",

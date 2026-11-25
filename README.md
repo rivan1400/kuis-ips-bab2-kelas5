@@ -35,3 +35,8 @@ Catatan keamanan: kebijakan SQL contoh mengizinkan siapa pun membaca dan mengiri
 
 ## Catatan sumber soal
 Soal pilihan ganda disusun dari kedua dokumen yang diunggah. Nomor 3 PSAS tentang letak astronomis tidak dimasukkan karena pilihan jawabannya kosong pada dokumen. Bagian isian dan esai tidak dimasukkan ke format pilihan ganda pada versi ini.
+
+
+## Pembaruan soal
+- Narasi 24 soal PSAS dan 20 soal Bab 2 telah diperbarui agar lebih mudah dipahami siswa kelas V tanpa mengubah kunci jawaban.
+- Urutan soal diacak setiap kali kuis dimulai atau diulang.

@@ -19,9 +19,11 @@ function sound(kind='click'){
   setTimeout(()=>ctx.close(),900);
  }catch{}
 }
+function shuffleQuestions(list){const copy=[...list];for(let i=copy.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[copy[i],copy[j]]=[copy[j],copy[i]]}return copy}
 function App(){
+ const [sessionQuestions,setSessionQuestions]=useState(quizzes.psas.questions);
  const [page,setPage]=useState('home'),[quizId,setQuizId]=useState('psas'),[index,setIndex]=useState(0),[answers,setAnswers]=useState([]),[feedback,setFeedback]=useState(null),[name,setName]=useState(''),[score,setScore]=useState(0),[board,setBoard]=useState([]),[meme,setMeme]=useState(''),[music,setMusic]=useState(false);
- const audioRef=useRef(null),q=quizzes[quizId],item=q.questions[index];
+ const audioRef=useRef(null),q={...quizzes[quizId],questions:sessionQuestions},item=q.questions[index];
  const correctCount=answers.filter((a,i)=>a===q.questions[i].correct).length;
  useEffect(()=>{loadBoard()},[]);
  useEffect(()=>{if(page==='result')loadBoard()},[page]);
@@ -29,7 +31,7 @@ function App(){
   if(supabase){const {data}=await supabase.from('quiz_leaderboard').select('*').order('score',{ascending:false}).order('created_at',{ascending:true}).limit(50);if(data)setBoard(data)}
   else {try{setBoard(JSON.parse(localStorage.getItem('ips-board')||'[]').sort((a,b)=>b.score-a.score).slice(0,50))}catch{}}
  }
- function start(id){sound();setQuizId(id);setIndex(0);setAnswers([]);setFeedback(null);setScore(0);setPage('play')}
+ function start(id){sound();setQuizId(id);setSessionQuestions(shuffleQuestions(quizzes[id].questions));setIndex(0);setAnswers([]);setFeedback(null);setScore(0);setPage('play')}
  function choose(n){
   if(feedback)return; sound();const ok=n===item.correct;setAnswers(a=>[...a,n]);setFeedback(ok?'good':'bad');setMeme(memes[ok?'good':'bad'][Math.floor(Math.random()*3)]);sound(ok?'good':'bad');
  }
